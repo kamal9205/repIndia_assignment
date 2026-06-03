@@ -74,10 +74,10 @@ export default function ProductCard({ product }) {
             py-1
             rounded-full
             text-xs
-            bg-violet-500/20
-            text-violet-300
+            bg-yellow-500/20
+            text-yellow-300
             border
-            border-violet-500/30
+            border-yellow-500/30
         "
           >
             {product.category}
@@ -86,10 +86,10 @@ export default function ProductCard({ product }) {
           <div className="flex justify-between items-center">
             <span
               className="
-                text-3xl
-                font-extrabold
-                text-emerald-400
-                group-hover:text-emerald-300
+                text-2xl
+                font-semibold
+                text-black-400
+                group-hover:text-black-300
                 transition-colors
                 duration-300
               "

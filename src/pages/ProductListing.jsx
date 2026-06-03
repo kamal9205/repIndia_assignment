@@ -117,7 +117,7 @@ export default function ProductListing() {
 
   return (
 
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-black">
+    <div className="min-h-screen bg-gradient-to-b from-[#F7F8F8] to-[#EAEDED]">
       <div className="max-w-7xl mx-auto p-6">
         <div className="grid md:grid-cols-3 gap-4 mb-6">
           <SearchBar
@@ -140,9 +140,10 @@ export default function ProductListing() {
           <h2
             className="
       text-2xl
-      font-bold
-      text-white
+      font-extrabold
+      text-black
     "
+    
           >
             Products
           </h2>
@@ -189,7 +190,7 @@ export default function ProductListing() {
               className="
       text-3xl
       font-bold
-      text-white
+      text-gray-800
     "
             >
               No Products Found
