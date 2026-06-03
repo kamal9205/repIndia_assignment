@@ -6,6 +6,14 @@ The application allows users to browse products, search products, filter by cate
 
 ---
 
+## 🌐 Live Demo
+
+**Live Application:**  
+https://rep-india-assignment.vercel.app/
+
+---
+
+
 ## 🚀 Live Features
 
 ### Product Listing Page
@@ -106,7 +114,7 @@ src/
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kamal9205/repIndia_assignment.git
 ```
 
 ### Navigate to Project
@@ -181,7 +189,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
 
 ### Product Listing
 
